@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Sprinkles: capacity 2, durability 0, flavor -2, texture 0, calories 3
 Butterscotch: capacity 0, durability 5, flavor -3, texture 0, calories 3
 Chocolate: capacity 0, durability 0, flavor 5, texture -1, calories 8
+=======
+Sprinkles: capacity 2, durability 0, flavor -2, texture 0, calories 3
+Butterscotch: capacity 0, durability 5, flavor -3, texture 0, calories 3
+Chocolate: capacity 0, durability 0, flavor 5, texture -1, calories 8
+>>>>>>> 028b25b0cc2dcace94bb9fa47bcd70c73bc1dd1a
 Candy: capacity 0, durability -1, flavor 0, texture 5, calories 8
